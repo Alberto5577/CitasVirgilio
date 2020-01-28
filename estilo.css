@@ -1,0 +1,6 @@
+body {
+    background-color: #CBAC4D;
+}
+p.intro{
+@font-face { font-family: 'Ribeye Marrow'; font-style: normal; font-weight: 400; src: url('../fonts/ribeye-marrow-v9-latin-regular.eot'); src: local('Ribeye Marrow'), local('RibeyeMarrow-Regular'), url('../fonts/ribeye-marrow-v9-latin-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/ribeye-marrow-v9-latin-regular.woff2') format('woff2'), url('../fonts/ribeye-marrow-v9-latin-regular.woff') format('woff'), url('../fonts/ribeye-marrow-v9-latin-regular.ttf') format('truetype'), url('../fonts/ribeye-marrow-v9-latin-regular.svg#RibeyeMarrow') format('svg'); }
+}
